@@ -1,5 +1,12 @@
 ## Hi there 👋
+🌱 I’m currently learning in Sookmyung Woman University It engineering & Business
 
+<h2 align="center"> 🎨 Stack <br> </p>
+ 
+  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
+
+ 
 <!--
 **psm1st/psm1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
