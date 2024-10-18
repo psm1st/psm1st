@@ -20,8 +20,9 @@
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/stern_015)
+<!--
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](psm1st@sookmyung.ac.kr)
-
+-->
  
 <!--
 **psm1st/psm1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
