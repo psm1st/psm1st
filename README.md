@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
   
 
-<h2 align="center"> 📫 contack me <br></p>
+<h2 align="center"> 📫 contact me <br></p>
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/stern_015)
