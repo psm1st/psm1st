@@ -1,9 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning in **Sookmyung Women's University It engineering & Business**
 
-😄 **Portfolio**
-
-
 <h2 align="center"> 🎨 Stack <br> </p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"/> 
  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=round-square&logo=react&logoColor=white"/>
