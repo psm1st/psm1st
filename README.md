@@ -24,15 +24,10 @@
 
  
 ---
-<div align="left">
+<div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=psm1st&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psm1st&layout=compact&theme=radical" alt="Top Langs">
     </a>
   </p>
 </div>
