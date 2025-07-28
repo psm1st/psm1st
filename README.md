@@ -1,4 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Sumin&fontSize=90&fontColor=1d1d1d)
+
 🌱 I’m currently learning in **Sookmyung Women's University It engineering & Business**
 
 <h2 align="center"> 🎨 Stack <br> </p>
