@@ -25,10 +25,23 @@
 
  
 ---
-<div align="center">
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=psm1st&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-    </a>
-  </p>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=psm1st&show_icons=true&theme=radical" alt="GitHub stats"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=psm1st&utm_content=farm">
+        <img src="https://render.gitanimals.org/farms/psm1st" width="600" height="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
