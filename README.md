@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Sumin&fontSize=90&fontColor=1d1d1d)
-
-🌱 I’m currently learning in **Sookmyung Women's University It engineering & Business**
 
 <h2 align="center"> 🎨 Stack <br> </p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white"/> 
@@ -15,16 +12,11 @@
   <img src="https://img.shields.io/badge/Styled--components-DB7093?style=round-square&logo=styled-components&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> 
-  
-
-<h2 align="center"> 📫 contact me <br></p>
 
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/stern_015)
-[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](psm3st@gmail.com)
 
- 
----
+
+
 <table border="0" align="center">
   <tr>
     <td align="center" valign="middle">
